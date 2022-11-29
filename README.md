@@ -2,4 +2,4 @@
 
 
 - 🔭 Eu estou trabalhando com front-end
-- 🌱 Estou aprendendo python, sql
+- 🌱 Estou aprendendo python, sql, HTML, CSS, javascript

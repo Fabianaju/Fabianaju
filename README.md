@@ -3,6 +3,6 @@
 
 - 🔭 Eu estou trabalhando com front-end
 - 🌱 Estou aprendendo python, sql, HTML, CSS, javascript
-name: Generate Datas
+
 
   

@@ -1,4 +1,4 @@
-## Eu sou Fabi Juraski, autodidata e adoro tecnologia!
+## Eu sou Fabi Juraski,sou criativa e adoro tecnologia!
 
 
 - 🔭 Eu estou trabalhando com front-end
